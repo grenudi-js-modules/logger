@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "@grenudi/logger",
   "version": "0.0.0",
   "description": "module to manage logging on either backend node.js or browser js",
   "main": "index.js",
@@ -15,6 +15,17 @@
     "tag",
     "tagged"
   ],
-  "author": "grenudi",
-  "license": "MIT"
+  "author": {
+    "name": "grenudi",
+    "email": "idunerg@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grenudi-js-modules/logger"
+  },
+  "bugs": {
+    "url": "https://github.com/grenudi-js-modules/logger/issues"
+  },
+  "readmeFilename": "README.md"
 }
