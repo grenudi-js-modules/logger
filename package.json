@@ -1,0 +1,20 @@
+{
+  "name": "logger",
+  "version": "0.0.0",
+  "description": "module to manage logging on either backend node.js or browser js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "grenudi",
+    "npm",
+    "npmjs",
+    "tags",
+    "tag",
+    "tagged"
+  ],
+  "author": "grenudi",
+  "license": "MIT"
+}
